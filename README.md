@@ -19,11 +19,7 @@
   <p> My THM account </p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/abdrabo.png" alt="TryHackMe">
 </div>
-<hr/>
-<div align="center">
-  <p> My roadmap.sh account </p>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6503af91df164ae1fe68d443?variant=dark" alt="roadmap.sh"/></a>
-</div>
+
 </div>
 
 <hr/>
@@ -36,4 +32,10 @@
  <a target="_blank" href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+
+  <hr/>
+<div align="center">
+  <p> My roadmap.sh account </p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6503af91df164ae1fe68d443?variant=dark" alt="roadmap.sh"/></a>
+</div>
 -->

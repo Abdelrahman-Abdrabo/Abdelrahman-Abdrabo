@@ -48,7 +48,6 @@
 </div>
 <h2 align="center" >Don't forget to follow😊</h2>
 
-https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000
 <!--
 - 🔭 I’m currently working on ...
  <a target="_blank" href="your-youtube-URL">

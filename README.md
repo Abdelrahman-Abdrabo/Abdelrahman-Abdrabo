@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there👋, I'm Abd El-Rahman Ahmed</h1>
-<h3 align="center">CSE Student | Aspiring security engineer</h3>
+<h3 align="center">CSE Student | Aspiring Ai security engineer</h3>
 <p>Highly motivated and quick-learning student pursuing a career in cybersecurity engineering. I have a strong foundation in Linux, network, Python, Java, C++, and C#, and I am eager to learn more about AI and machine learning. I am also a passionate CTF player with strong problem-solving, analytical, and teamwork skills.</p>
 
 - 🌱 I’m currently learning web pentesting

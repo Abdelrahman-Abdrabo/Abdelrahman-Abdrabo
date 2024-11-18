@@ -1,16 +1,13 @@
 <h1 align="center"> Hi there👋, I'm Abd El-Rahman Ahmed</h1>
-<h3 align="center">CSE Student | Aspiring Ai security engineer</h3>
-<p>Highly motivated and quick-learning student pursuing a career in cybersecurity engineering. I have a strong foundation in Linux, network, Python, Java, C++, and C#, and I am eager to learn more about AI and machine learning. I am also a passionate CTF player with strong problem-solving, analytical, and teamwork skills.</p>
+<h3 align="center">CSE Student | Aspiring Ai security engineer | Former Intern at Samsung Electronics Egypt</h3>
+<p>Computer engineering undergraduate passionate about AI, machine learning, and cybersecurity. Skilled in Python, Java, C++, Linux, and networking, with hands-on experience in deep learning, computer vision, and cybersecurity practices. A quick learner and CTF player with strong problem-solving, analytical, and teamwork skills, aspiring to become an AI Security Engineer.</p>
 
-- 🌱 I’m currently learning Machine learning 
+- 🌱 I’m currently learning Computer Vision  
 - 📫 How to reach me: **abdelrahmanabdrabo123@gmail.com**
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/abd-el-rahman-ahmed-abdrabo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/Abdrabo_X" target="_blank" >
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <hr/>

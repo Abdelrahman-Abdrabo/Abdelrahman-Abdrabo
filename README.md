@@ -1,5 +1,10 @@
-<h1 align="center"> Hi there👋, I'm Abd El-Rahman Ahmed</h1>
-<h3 align="center">CSE Student | Aspiring Ai security engineer | Former Intern at Samsung Electronics Egypt</h3>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abd El-Rahman Ahmed</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineering%20Student;Aspiring%20AI%20Security%20Engineer&font=Fire%20Code&center=true&width=500&height=45&color=FFDE21&vCenter=true&size=30"></a>
+</p> 
+<!--
+<h3 align="center">Aspiring%20Ai%20security%20engineer | Former Intern at Samsung Electronics Egypt</h3>
+-->
 <p>Computer engineering undergraduate passionate about AI, machine learning, and cybersecurity. Skilled in Python, Java, C++, Linux, and networking, with hands-on experience in deep learning, computer vision, and cybersecurity practices. A quick learner and CTF player with strong problem-solving, analytical, and teamwork skills, aspiring to become an AI Security Engineer.</p>
 
 - 🌱 I’m currently learning Computer Vision  
@@ -11,12 +16,11 @@
   </a>
 </div>
 <hr/>
+<!--
 <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Abdrabo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Abdrabo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
 </div>
-
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -42,12 +46,13 @@
 
 </div>
 <hr/>
+<!--
 <div align="center">
   <h3> My THM account </h3>
   <img src="https://tryhackme-badges.s3.amazonaws.com/abdrabo.png" alt="TryHackMe">
 </div>
 <h2 align="center" >Don't forget to follow😊</h2>
-
+-->
 <!--
 - 🔭 I’m currently working on ...
  <a target="_blank" href="your-youtube-URL">

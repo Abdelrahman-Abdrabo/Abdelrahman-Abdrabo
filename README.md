@@ -46,6 +46,14 @@
 
 </div>
 <hr/>
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/abdrabo?theme=dark&font=Abel&ext=heatmap)
+  
+</div>
+
+
+
 <!--
 <div align="center">
   <h3> My THM account </h3>

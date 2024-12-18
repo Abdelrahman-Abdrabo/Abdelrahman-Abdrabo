@@ -49,7 +49,9 @@
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abdrabo?theme=dark&font=Abel&ext=heatmap)
-  
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=abdrabo&theme=dark" alt="LeetCode Badges"/>
+
 </div>
 
 

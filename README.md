@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abd El-Rahman Ahmed</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineering%20Student;Aspiring%20AI%20Security%20Engineer&font=Fire%20Code&center=true&width=500&height=45&color=FFDE21&vCenter=true&size=30"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineering%20Student;Aspiring%20AI%20Security%20Engineer&font=Fire%20Code&center=true&width=500&height=45&color=FF5722&vCenter=true&size=30"></a>
 </p> 
 <!--
 <h3 align="center">Aspiring%20Ai%20security%20engineer | Former Intern at Samsung Electronics Egypt</h3>
